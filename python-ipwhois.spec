@@ -8,7 +8,7 @@
 Summary:	Retrieve and parse whois data for IPv4 and IPv6 addresses
 Name:		python-%{module}
 Version:	1.2.0
-Release:	4
+Release:	5
 License:	- (enter GPL/GPL v2/GPL v3/LGPL/BSD/BSD-like/other license name here)
 Group:		Libraries/Python
 Source0:	https://pypi.debian.net/ipwhois/ipwhois-1.2.0.tar.gz
