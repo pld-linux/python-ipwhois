@@ -42,7 +42,7 @@ pwhois is a Python package focused on retrieving and parsing whois data for IPv4
 
 %prep
 %setup -q -n %{pypi_name}-%{version}
-%patch0 -p1
+%patch -P 0 -p1
 
 %build
 %if %{with python2}
